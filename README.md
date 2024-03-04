@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###Top Langs:
-[![Top Langs](https://github-readme-stats-edcds-projects.vercel.app//api/top-langs/?username=egehandogan35&layout=compact&theme=vision-friendly-dark&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+
+### Top Langs: 
+
+
+
+[![Top Langs](https://github-readme-stats-edcds-projects.vercel.app//api/top-langs/?username=egehandogan35&layout=compact&theme=vision-friendly-dark&langs_count=10&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
