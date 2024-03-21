@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 ### Top Langs: 
 
 
 
 [![Top Langs](https://github-readme-stats-edcds-projects.vercel.app//api/top-langs/?username=egehandogan35&layout=compact&theme=vision-friendly-dark&langs_count=10&exclude_repo=https://github.com/egehandogan35/last-extension&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
 
