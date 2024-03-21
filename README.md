@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats-edcds-projects.vercel.app//api/top-langs/?username=egehandogan35&layout=compact&theme=vision-friendly-dark&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-edcds-projects.vercel.app//api/top-langs/?username=egehandogan35&layout=compact&theme=vision-friendly-dark&langs_count=10&exclude_repo=https://github.com/egehandogan35/last-extension&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
